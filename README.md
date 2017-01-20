@@ -1,6 +1,8 @@
-#I joined the #100DaysOfAlgorithm Challenge.
+#CodingPractice
+I joined the #100DaysOfAlgorithm Challenge.
+
 This repo consists of
-* my solutions to HackerRank Algorithm problems
+* my HackerRank Algorithms solutions
 
 ##Logs
 
