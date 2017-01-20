@@ -11,3 +11,5 @@ This repo consists of
 2) 2_CompareTheTriplets
 
 3) 3_AVeryBigSum
+
+4) 4_DiagonalDifference
