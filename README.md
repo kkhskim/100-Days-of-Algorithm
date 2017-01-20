@@ -13,3 +13,5 @@ This repo consists of
 3) 3_AVeryBigSum
 
 4) 4_DiagonalDifference
+
+5) 5_PlusMinus
