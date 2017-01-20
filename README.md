@@ -19,3 +19,5 @@ This repo consists of
 6) 6_Staircase
 
 7) 7_TimeConversion
+
+8) 8_CircularArrayRotation
