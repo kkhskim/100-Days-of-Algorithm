@@ -8,18 +8,11 @@ This repo consists of
 
 ###Day 1: January 20, 2017
 
-1) 1_SimpleArraySum
-
-2) 2_CompareTheTriplets
-
-3) 3_AVeryBigSum
-
-4) 4_DiagonalDifference
-
-5) 5_PlusMinus
-
-6) 6_Staircase
-
-7) 7_TimeConversion
-
-8) 8_CircularArrayRotation
+* 1_SimpleArraySum
+* 2_CompareTheTriplets
+* 3_AVeryBigSum
+* 4_DiagonalDifference
+* 5_PlusMinus
+* 6_Staircase
+* 7_TimeConversion
+* 8_CircularArrayRotation
