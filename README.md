@@ -1,8 +1,9 @@
-I joined the #100DaysOfAlgorithm Challenge.
+#I joined the #100DaysOfAlgorithm Challenge.
 
-Logs
+##Logs
 
-Day 1: January 20, 2017
+###Day 1: January 20, 2017
 
 1) 1_SimpleArraySum
+
 2) 2_CompareTheTriplets
