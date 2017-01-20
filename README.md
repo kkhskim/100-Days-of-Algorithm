@@ -15,3 +15,5 @@ This repo consists of
 4) 4_DiagonalDifference
 
 5) 5_PlusMinus
+
+6) 6_Staircase
