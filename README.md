@@ -17,3 +17,5 @@ This repo consists of
 5) 5_PlusMinus
 
 6) 6_Staircase
+
+7) 7_TimeConversion
