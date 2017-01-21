@@ -16,3 +16,7 @@ This repo consists of
 * 6_Staircase
 * 7_TimeConversion
 * 8_CircularArrayRotation
+
+###Day 2: January 21, 2017
+
+* 9_MiniMaxSum
