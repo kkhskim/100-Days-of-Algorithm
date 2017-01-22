@@ -26,3 +26,4 @@ This repo consists of
 ###Day 3: January 22, 2017
 
 * 11_AppleAndOrange
+* 12_Kangaroo
