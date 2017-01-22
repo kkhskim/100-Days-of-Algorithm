@@ -21,3 +21,8 @@ This repo consists of
 
 * 9_MiniMaxSum
 * 10_DesignerPDFViewer
+
+
+###Day 3: January 22, 2017
+
+* 11_AppleAndOrange
