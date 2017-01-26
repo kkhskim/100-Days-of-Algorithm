@@ -43,3 +43,7 @@ This repo consists of
 ###Day 6: January 25, 2017
 
 * 19_BeautifulDaysAtTheMovies
+
+###Day 7: January 26, 2017
+
+* 20_ViralAdvertising
