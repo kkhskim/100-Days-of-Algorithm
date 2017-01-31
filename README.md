@@ -54,3 +54,4 @@ This repo consists of
 * 22_JumpingOnTheClouds
 * 23_FindDigits
 * 24_ExtraLongFactorials
+* 25_AppendAndDelete
