@@ -55,3 +55,4 @@ This repo consists of
 * 23_FindDigits
 * 24_ExtraLongFactorials
 * 25_AppendAndDelete
+* 26_SherlockAndSquares
