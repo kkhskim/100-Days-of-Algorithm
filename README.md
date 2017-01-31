@@ -47,3 +47,7 @@ This repo consists of
 ###Day 7: January 26, 2017
 
 * 20_ViralAdvertising
+
+###Day 8: January 31, 2017
+
+* 21_SaveThePrisoner
