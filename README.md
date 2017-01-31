@@ -53,3 +53,4 @@ This repo consists of
 * 21_SaveThePrisoner
 * 22_JumpingOnTheClouds
 * 23_FindDigits
+* 24_ExtraLongFactorials
