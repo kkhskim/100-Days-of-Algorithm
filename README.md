@@ -56,3 +56,7 @@ This repo consists of
 * 24_ExtraLongFactorials
 * 25_AppendAndDelete
 * 26_SherlockAndSquares
+
+###Day 9: February 1, 2017
+
+* 27_LibraryFine
