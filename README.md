@@ -60,3 +60,4 @@ This repo consists of
 ###Day 9: February 1, 2017
 
 * 27_LibraryFine
+* 28_CutTheSticks
