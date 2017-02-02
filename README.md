@@ -61,3 +61,7 @@ This repo consists of
 
 * 27_LibraryFine
 * 28_CutTheSticks
+
+###Day 10: February 2, 2017
+
+* 29_NonDivisibleSubset
