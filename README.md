@@ -65,3 +65,7 @@ This repo consists of
 ###Day 10: February 2, 2017
 
 * 29_NonDivisibleSubset
+
+###Day 11:February 3, 2017
+
+* 30_RepeatedString
